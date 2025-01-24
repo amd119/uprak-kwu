@@ -7,8 +7,6 @@ function getYear() {
 
 getYear();
 
-
-
 // slick slider
 $('.chocolate_container').slick({
     infinite: true,
