@@ -13,6 +13,9 @@ $('.chocolate_container').slick({
     center: true,
     slidesToShow: 3,
     slidesToScroll: 1,
+    swipe: true,
+    touchMove: true,
+    autoplay: false,
     responsive: [{
             breakpoint: 991,
             settings: {
